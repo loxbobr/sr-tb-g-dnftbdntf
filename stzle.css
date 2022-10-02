@@ -1,0 +1,10 @@
+.content{
+   background-color: blueviolet;
+    display: flex;
+
+}
+
+.post{
+    background-color: rgba(127, 255, 212, 0.42);
+    margin: 20px;
+}
